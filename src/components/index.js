@@ -1,0 +1,5 @@
+export { default as Article} from './article/Article.jsx'
+export {default as Barand} from './barand/Barand.jsx'
+export { default as CTA} from './cta//CTA.jsx'
+export { default as Features} from './feature/Feature.jsx'
+export { default as Navbar} from './navbar/Navbar.jsx'
